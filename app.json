@@ -7,7 +7,7 @@
     "fontbot"
   ],
   "repository": "https://github.com/riz4d/Font-Bot",
-  "stack": "container",
+  "stack": "heroku-22",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
